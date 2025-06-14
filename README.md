@@ -4,7 +4,7 @@
 
 A simple barcode scanner that uses a webcam to detect and decode barcodes and QR codes in real time.
 
-## 🚀 Features
+## Features
 
 - ✅ Detection of multiple barcodes simultaneously
 - ✅ Support for various formats (EAN-13, UPC-A, Code 128, QR Code, etc.)
@@ -12,7 +12,7 @@ A simple barcode scanner that uses a webcam to detect and decode barcodes and QR
 - ✅ Display of decoded data on the screen
 - ✅ Easy integration with other systems
 
-## 📦 Pré-requisitos
+## Mandatory Requirements
 
 - Python 3.8+
 - Working Webcam
